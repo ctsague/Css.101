@@ -1,0 +1,25 @@
+
+body{
+	background: #B0B0B0;
+}
+
+header{
+	text-align: center;
+	border: solid 3px ;
+	border-color: blue;
+	color: blue;
+}
+
+h2{
+	color:red;
+	text-align:center;
+
+}
+img{
+	width: 100%
+}
+
+
+p {
+	font-size: 22px;
+}
